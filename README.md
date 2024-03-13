@@ -11,6 +11,7 @@ Here is a list of some of my hobbies when I'm not studying at uni:
 ## Projects
 This is a list of all the projects I have completed in *STATS 220* this semester:
 1. **Create a Meme on RStudio**
+2. *More projects coming soon...*
 
 ## Social Media
 - **Instagram:** [ccieplinski](https://www.instagram.com/ccieplinski/)
