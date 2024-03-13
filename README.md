@@ -16,4 +16,4 @@ This is a list of all the projects I have completed in *STATS 220* this semester
 - **Instagram:** [ccieplinski](https://www.instagram.com/ccieplinski/)
 - **Discord:** cyali10
 - **Github:** [cyali10](https://github.com/cyali10)
-- **LinkedIn:** [Christopher Cieplinski](www.linkedin.com/in/cciep)
+- **LinkedIn:** [Christopher Cieplinski](https://www.linkedin.com/in/cciep/)
