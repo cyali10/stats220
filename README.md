@@ -1,12 +1,19 @@
 # Stats220 Repo
-I made this repo to display my work/projects which I have done throughout my time in **STATS 220**.
+## About Me
+My name is **Christopher** and I am a part II Computer Science student! This is my repo where I will be displaying all of the work/projects that I do in *STATS 220* throughout this semester :D.
+### Hobbies
+Here is a list of some of my hobbies when I'm not studying at uni:
+1. *Basketball*
+2. *Video games*
+3. *Gym*
+4. *Trying new food/drink spots*
 
-A little bit about me, I am a stage II Compsci student. Some of my hobbies outside of uni include:
-1. Basketball
-2. Video games
-3. Watching Youtube
+## Projects
+This is a list of all the projects I have completed in *STATS 220* this semester:
+1. **Create a Meme on RStudio**
 
 ## Social Media
-- Instagram: *ccieplinski*
-- Discord: *cyali10*
-- Github: *[cyali10](https://github.com/cyali10)*
+- **Instagram:** [ccieplinski](https://www.instagram.com/ccieplinski/)
+- **Discord:** cyali10
+- **Github:** [cyali10](https://github.com/cyali10)
+- **LinkedIn:** [Christopher Cieplinski](www.linkedin.com/in/cciep)
