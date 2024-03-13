@@ -4,7 +4,7 @@ I made this repo to display my work/projects which I have done throughout my tim
 A little bit about me, I am a stage II Compsci student. Some of my hobbies outside of uni include:
 1. Basketball
 2. Video games
-3. Chasing Vesper around like her little puppy.
+3. Watching Youtube
 
 ## Social Media
 - Instagram: *ccieplinski*
